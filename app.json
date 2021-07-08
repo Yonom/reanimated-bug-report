@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "reanimated-bug-report",
+    "slug": "reanimated-bug-report",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "reanimated-bug-report"
+}
